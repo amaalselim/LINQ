@@ -22,7 +22,7 @@ namespace LinQ1
             // Non-Query Syntax
             var result = Names.Where(item => item.Length > 3);
 
-            foreach (var s in Result)
+            foreach (var s in result)
             {
                 Console.WriteLine(s);
             }
