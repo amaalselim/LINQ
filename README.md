@@ -13,7 +13,7 @@ It has two Types :
 
 - Query Syntax
 ```C#
-List<string> Names = new List<string>()
+            List<string> Names = new List<string>()
             {
                 "Red","Book","Computer","Mobile","Program"
             };
