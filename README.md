@@ -1,7 +1,6 @@
 # LINQ
 ## Language-Integrated Query (LINQ) is the name for a set of technologies based on the integration of query capabilities directly into the C# language
 - you have to learn a different query language for each type of data source: SQL databases, XML documents, various Web services, and so on.
-- Write Query using C# Language
 - Doing CRUD Operations
     - Create
     - Read
