@@ -12,7 +12,7 @@ It has two Types :
 - Fluent Syntax => like (Programming Extention Methods)
 
 - Query Syntax
-```C#
+    ```C#
             List<string> Names = new List<string>()
             {
                 "Red","Book","Computer","Mobile","Program"
@@ -20,10 +20,9 @@ It has two Types :
             var Result = from item in Names
                          select item;
             foreach (var item in Result) Console.WriteLine(item);
-```
+    ```
 - Fluent Syntax
-  
-  ```C#
+    ```C#
             List<string> Names = new List<string>()
             {
                 "Red","Book","Computer","Mobile","Program"
@@ -31,4 +30,4 @@ It has two Types :
             var Result = Names.Where(item=>itemContains("R"));
             
             foreach (var item in Result) Console.WriteLine(item);
-  ```
+    ```
