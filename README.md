@@ -7,9 +7,9 @@
     - Update
     - Delete
 
-It has two Types :
-- Query Syntax => like (SQL)
-- Fluent Syntax => like (Programming Extention Methods)
+- It has two Types :
+  - Query Syntax => like (SQL)
+  - Fluent Syntax => like (Programming Extention Methods)
 
 - Query Syntax
     ```C#
